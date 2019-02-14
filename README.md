@@ -1,1 +1,1 @@
-# fcc_random-quote-machine
+# Random Quote Machine (using jQuery)
